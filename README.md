@@ -7,4 +7,4 @@ userscript that blends into hummus' login screen and allows you to easily swap a
 ### there IS a guide provided in the script.
 # 
 ### installation with [tampermonkey](https://www.tampermonkey.net/)
-after installing tampermonkey for your browser, [click here](https://github.com/s626ch/hummus-token-login/raw/master/userscript.js)
+after installing tampermonkey for your browser, [click here](https://github.com/s626ch/hummus-token-login/raw/master/humtoken.user.js)
